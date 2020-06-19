@@ -1,0 +1,9 @@
+Body:
+{
+    "user": {
+        "username": "remi",
+        "email": "testremi@gmail.com",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlZWNhN2FjNjk5ZDE2MDMyNDZmZDU1NiIsInVzZXJuYW1lIjoicmVtaSIsImV4cCI6MTU5Nzc1MzEwOSwiaWF0IjoxNTkyNTY5MTA5fQ.hzuyWhpLHwzoO2-9T8uhsqFlKwNGxhYVPEwnYSg2TSU"
+    }
+}
+X-SuperSecretCode: Alakazam 184
